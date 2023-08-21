@@ -3,7 +3,7 @@
 
 ###
 
-<h6 align="left">I'm an enthusiastic B.Tech CSE undergraduate. My passion for programming and development drives me to actively pursue SDE roles. Dedicated to continuous learning and making valuable contributions to the tech industry, my primary focus is on establishing solid foundations and expanding my skill set.</h6>
+<h4 align="left">I'm an enthusiastic B.Tech CSE undergraduate. My passion for programming and development drives me to actively pursue SDE roles. Dedicated to continuous learning and making valuable contributions to the tech industry, my primary focus is on establishing solid foundations and expanding my skill set.</h4>
 
 ###
 
@@ -11,11 +11,11 @@
 
 ###
 
-<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate My Skills and Secure a SDE Role<br>✉️ I can be reached at **soham0110banik@gmail.com**</p>
+<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate My Skills and Secure an SDE Role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a></p>
 
 ###
 
-<h2 align="left">Programming Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -49,16 +49,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SohamB21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/soham banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham banik" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/sohamb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamb21" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/@soham0110banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@soham0110banik" height="30" width="40" /></a>
+  </p>
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soham banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham banik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@soham0110banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@soham0110banik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sohamb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamb21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
-</p>
 
 ###
