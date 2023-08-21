@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm an enthusiastic B.Tech CSE undergraduate. My passion for programming and development drives me to actively pursue SDE roles. Dedicated to continuous learning and making valuable contributions to the tech industry, my primary focus is on establishing solid foundations and expanding my skill set.</h4>
+<h3 align="left">I'm an enthusiastic B.Tech CSE undergraduate. My passion for programming and development drives me to actively pursue SDE roles. Dedicated to continuous learning and making valuable contributions to the tech industry, my primary focus is on establishing solid foundations and expanding my skill set.</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <div>
   <h3 align="left">Connect with me:</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://linkedin.com/in/soham banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham banik" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/sohamb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamb21" height="30" width="40" /></a>
