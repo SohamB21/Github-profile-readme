@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate My Skills and Secure an SDE Role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a></p>
+<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate my Skills and Secure an SDE Role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a></p>
 
 ###
 
@@ -49,7 +49,7 @@
 ###
 
 <div>
-  <h3 align="left">Connect with me:</h3>
+  <h2 align="left">Connect with me:</h2>
   <p align="left">
     <a href="https://linkedin.com/in/soham banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham banik" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
