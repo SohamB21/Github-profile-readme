@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Soham.</h1>
+<h1 align="center">Hi 👋, I'm Soham.</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -50,7 +50,7 @@
 
 <div>
   <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <p align="center">
     <a href="https://linkedin.com/in/soham banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham banik" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/sohamb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamb21" height="30" width="40" /></a>
