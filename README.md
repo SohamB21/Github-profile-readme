@@ -54,7 +54,9 @@
   <a href="https://auth.geeksforgeeks.org/user/soham011qbve" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soham011qbve" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sohamb21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamb21" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/soham0110banik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soham0110banik" height="30" width="40" /></a>
+  <span style="float: right; margin-left: auto;">
+    <img src="https://komarev.com/ghpvc/?username=SohamB21&label=Profile%20views&color=0e75b6&style=flat-square" alt="SohamB21"/>
+  </span>
 </p>
-
 
 ###
