@@ -9,7 +9,8 @@
 <h2 align="left">🚀 About me</h2>
 
 ###
-<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate my Skills and Secure an SDE Role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a></p>
+
+<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate my Skills and Secure an SDE Role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a><br>🌐 Visit my portfolio <a href="https://soham-banik-portfolio.vercel.app/" target="_blank">Soham's Portfolio</a></p>
 
 ###
 
