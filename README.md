@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">I'm an enthusiastic B.Tech CSE undergraduate. My passion for programming and development drives me to actively pursue SDE roles. Dedicated to continuous learning and making valuable contributions to the tech industry, my primary focus is on establishing solid foundations and expanding my skill set.</h3>
+<h3 align="left">I love building things that solve real-world problems. With multiple work experiences, I’m passionate about learning new tech and continuously refining my skills. Always looking to collaborate and innovate in this ever-evolving tech world. There's always more to learn, and I’m excited for the journey ahead!</h3>
 
 ###
 
-<h2 align="left">🚀 About me</h2>
+<h2 align="left">🚀 About Me:</h2>
 
 ###
 
-<p align="left">🌱 Quick Learner and Problem Solver<br>💻 Proficient in Programming and Development<br>🎯 Elevate my Skills and Secure an SDE role<br>✉️ I can be reached at <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a><br>🌐 Visit my Portfolio <a href="https://soham-banik-portfolio.vercel.app/" target="_blank">Soham's Portfolio</a></p>
+<p align="left">💻 SDE at Onlighten Media - Final Year B.Tech CSE<br>🌱 Quick Learner & Proficient Developer<br>🎯 Elevate my Skills & Secure an SDE role<br>✉️ Reach me at: <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a><br>🌐 Visit my portfolio: <a href="https://soham-banik-portfolio.vercel.app/" target="_blank">Soham's Portfolio</a></p>
 
 ###
 
