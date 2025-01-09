@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
@@ -42,9 +40,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -54,9 +56,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="reactnative logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -66,10 +70,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
+  
+  
   
   
 </div>
